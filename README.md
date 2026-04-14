@@ -10,8 +10,8 @@ This repository documents a ticketing system lab that I created. Using Spicework
 ![Ticket for locked out](images/Ticket-Locked-Out.png)
 
 #### 2. User 'Harry Potter' creates a ticket detailing the issue 
- - Describes device affected, details of the screen, where he can be found
- - Priority is HIgh because he cannot complete any tasks
+ - Describes device affected, details of the screen, and where he can be found
+ - Priority is High because he cannot complete any tasks
  - Category 'Other' because 'account issues' not listed
 
     
