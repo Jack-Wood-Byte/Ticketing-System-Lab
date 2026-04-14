@@ -1,5 +1,5 @@
 # Ticketing-System-Lab
-This repository documents a ticketing system lab that I created. Using Spiceworks, I create tickets for issues that have appeared within my Active Directory homelab. These are then resolved and closed after confirming with the user. 
+This repository documents a ticketing system lab that I created. Using Spiceworks, I created tickets for issues that appeared within my Active Directory homelab. These are then resolved and closed after confirming with the user. 
 
 ## Ticket One - User can't log into computer
 
